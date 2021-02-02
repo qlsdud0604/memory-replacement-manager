@@ -13,7 +13,7 @@
 -----
 ## 3. FIFO 알고리즘
 **1) 알고리즘의 구현**
-```
+```java
 public void showInformation() {
 	for (int i = 0; i < numberOfFrame; i++)
 		frame[i] = -1;
@@ -84,7 +84,7 @@ public void showInformation() {
 -----
 ## 4. LFU 알고리즘
 **1) 알고리즘의 구현**
-```
+```java
 public void showInformation() {
 	for (int i = 0; i < numberOfFrame; i++) {
 		frame[i] = -1;
@@ -174,7 +174,7 @@ public void showInformation() {
 -----
 ## 5. MFU 알고리즘
 **1) 알고리즘의 구현**
-```
+```java
 public void showInformation() {
 	for (int i = 0; i < numberOfFrame; i++) {
 		frame[i] = -1;
@@ -264,7 +264,7 @@ public void showInformation() {
 -----
 ## 6. LRU 알고리즘
 **1) 알고리즘의 구현**
-```
+```java
 public void showInformation() {
 	for (int i = 0; i < numberOfFrame; i++)
 		frame[i] = -1;
@@ -365,7 +365,7 @@ public void showInformation() {
 -----
 ## 7. Optimal 알고리즘
 **1) 알고리즘의 구현**
-```
+```java
 public void showInformation() {
 	for (int i = 0; i < numberOfFrame; i++)
 		frame[i] = -1;
