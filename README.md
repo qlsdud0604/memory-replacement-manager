@@ -14,7 +14,6 @@
 
 ---
 ## :mag: 설정
-* 샘플 데이터
 ```
  - number of frames : 3
  - number of inputs : 20
